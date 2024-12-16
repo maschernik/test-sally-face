@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(13, 27, 214);
+}
+
+body{
+    background-color: rgb(146, 146, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button, a{
+    background-color: rgb(6, 3, 37);
+    color: rgb(220, 242, 245);
+    text-decoration: none; 
+}
+
+a{
+    margin: 10px;
+    border-radius: 10%;
+    padding: 2px;
+}
+.bass{
+    border: 5px;
+}
+
+img {
+    width: 300px;
+}
